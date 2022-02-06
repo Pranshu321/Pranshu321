@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **pranshujain0221@gmail.com**
 
-- ⚡ Fun fact **I am little bit lazy :>)**
+- ⚡ Fun fact **I am little bit lazy :>) but always excited to learn new things.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
