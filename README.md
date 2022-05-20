@@ -3,13 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranshu321&label=Profile%20views&color=0e75b6&style=flat" alt="pranshu321" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pranshu321" alt="Pranshu321" /></a> </p>
+
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Pranshu321](https://github.com/Pranshu321)
+- 👨‍💻 All of my projects are available at [Here](https://github.com/Pranshu321)
 
 - 💬 Ask me about **Cpp**
 
-- 📫 How to reach me **pranshujain0221@gmail.com**
+- 📫 How to reach me **pranshujain0111@gmail.com**
 
 - ⚡ Fun fact **I am little bit lazy :>) but always excited to learn new things.**
 
