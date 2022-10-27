@@ -48,3 +48,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranshu321&" alt="pranshu321" /></p>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Pranshu321) 
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fay68iajsemwobcnit7uu2tnj&cover_image=true&theme=default&show_offline=false)](https://spotify-github-profile.vercel.app/api/view?uid=fay68iajsemwobcnit7uu2tnj&redirect=true)
