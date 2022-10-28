@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **I am little bit lazy :>) but always excited to learn new things.**
 
+[![@pranshu's Holopin board](https://holopin.me/pranshu)](https://holopin.io/@pranshu)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/pranshu32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="pranshu32" height="30" width="40" /></a>
@@ -48,5 +50,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranshu321&" alt="pranshu321" /></p>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Pranshu321) 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fay68iajsemwobcnit7uu2tnj&cover_image=true&theme=default&show_offline=false)](https://spotify-github-profile.vercel.app/api/view?uid=fay68iajsemwobcnit7uu2tnj&redirect=true)
