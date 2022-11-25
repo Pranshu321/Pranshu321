@@ -19,7 +19,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/pranshu32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="pranshu32" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pranshu-jain-0742b1209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranshu-jain-0742b1209" height="30" width="40" /></a>
 <a href="https://instagram.com/pranshu_x_jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pranshu_x_jain" height="30" width="40" /></a>
 <a href="https://medium.com/@Pranshu_Jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pranshujain0111" height="30" width="40" /></a>
