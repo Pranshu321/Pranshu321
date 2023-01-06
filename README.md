@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pranshu321" alt="Pranshu321" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently exploring the world of **Web3**
 
 - 👨‍💻 All of my projects are available at [Here](https://github.com/Pranshu321)
 
-- 💬 Ask me about **Cpp**
+- 💬 Ask me about **Web & Cpp**
 
 - 📫 How to reach me **pranshujain0111@gmail.com**
 
@@ -48,4 +48,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranshu321&" alt="pranshu321" /></p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Pranshu321) 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Pranshu321&bg_color=000000&color=9e4c98&line=9e4c98&point=ff8585&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
