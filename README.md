@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pranshu Jain</h1>
 <h3 align="center">Fix the Cause ,  Not the Symptom</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranshu321&label=Profile%20views&color=0aff33&style=plastic" alt="pranshu321" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pranshu321&label=Profile%20views&color=0aff33&style=plastic" alt="pranshu321" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pranshu321" alt="Pranshu321" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pranshu321&column=4&margin-w=20&margin-h=15" alt="Pranshu321" /></a> </p>
 
 - 🌱 I’m currently exploring the world of **Web3**
 
