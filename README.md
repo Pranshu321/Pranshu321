@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Pranshu Jain</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> , I'm Pranshu Jain</h1>
 <h3 align="center">Fix the Cause ,  Not the Symptom</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pranshu321&label=Profile%20views&color=0aff33&style=plastic" alt="pranshu321" /> </p>
