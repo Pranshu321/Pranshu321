@@ -80,7 +80,7 @@
 
 <h4> Web3 </h4>
 
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![web3.js](https://img.shields.io/badge/Web3.js-F16822.svg?style=for-the-badge&logo=web3dotjs&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![web3.js](https://img.shields.io/badge/Web3.js-F16822.svg?style=for-the-badge&logo=web3dotjs&logoColor=white) ![Truffle](https://img.shields.io/badge/Truffle-e4a663?style=for-the-badge&logoColor=white) ![Ganache](https://img.shields.io/badge/ganache-5E464D?style=for-the-badge&logoColor=white) ![Moralis](https://img.shields.io/badge/Moralis-01ADF7?style=for-the-badge&logoColor=white) ![OpenZepplin](https://img.shields.io/badge/OpenZeppelin-4E5EE4.svg?style=for-the-badge&logo=OpenZeppelin&logoColor=white) ![ThirdWeb](https://img.shields.io/badge/ThirdWeb-CB0FAA?style=for-the-badge&logoColor=white)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranshu321&show_icons=true&locale=en&layout=compact" alt="pranshu321" /></p>
 
