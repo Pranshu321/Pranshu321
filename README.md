@@ -14,7 +14,9 @@
 
 - 🌱 I’m currently exploring the world of **Web3**
 
-- 👨‍💻 All of my projects are available at [Here](https://github.com/Pranshu321)
+- 👨‍💻 All of my projects are available at [Here](https://pranshuportfolio.netlify.app/)
+
+- Currently working as software engineer intern at <img src="https://img.shields.io/badge/Digilocker-5733EA?style=for-the-badge&logoColor=white" align="center" alt="fdf" />
 
 - 💬 Ask me about **Web & Cpp**
 
