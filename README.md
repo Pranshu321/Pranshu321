@@ -29,12 +29,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pranshu-jain-0742b1209" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="pranshu-jain-0742b1209" /></a>
-<a href="https://instagram.com/pranshu_x_jain" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="pranshu_x_jain"  /></a>
+<!-- <a href="https://instagram.com/pranshu_x_jain" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="pranshu_x_jain"  /></a> -->
 <a href="https://medium.com/@Pranshu_Jain" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@pranshujain0111"  /></a>
 <a href="https://www.codechef.com/users/pranshu32" target="blank"><img align="center" src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" alt="pranshu32"  /></a>
 <a href="https://www.hackerrank.com/pranshujain0111" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="pranshujain0111"  /></a>
-<a href="https://www.leetcode.com/pranshujain0111" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="pranshujain0111"  /></a> 
-         
+<a href="https://www.leetcode.com/pranshujain0111" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="pranshujain0111"  /></a>       
 <a href="https://auth.geeksforgeeks.org/user/pranshujain0111/profile" target="_blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="pranshujain0111/profile"  /></a>
 </p>
 
