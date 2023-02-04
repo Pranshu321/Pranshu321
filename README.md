@@ -33,7 +33,9 @@
 <a href="https://medium.com/@Pranshu_Jain" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@pranshujain0111"  /></a>
 <a href="https://www.codechef.com/users/pranshu32" target="blank"><img align="center" src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" alt="pranshu32"  /></a>
 <a href="https://www.hackerrank.com/pranshujain0111" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="pranshujain0111"  /></a>
-<a href="https://www.leetcode.com/pranshujain0111" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="pranshujain0111"  /></a> <a href="https://auth.geeksforgeeks.org/user/pranshujain0111/profile" target="_blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="pranshujain0111/profile"  /></a>
+<a href="https://www.leetcode.com/pranshujain0111" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="pranshujain0111"  /></a> 
+         
+<a href="https://auth.geeksforgeeks.org/user/pranshujain0111/profile" target="_blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="pranshujain0111/profile"  /></a>
 </p>
 
 ![GitHub metrics](https://metrics.lecoq.io/Pranshu321)  
