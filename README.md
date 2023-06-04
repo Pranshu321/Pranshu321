@@ -90,4 +90,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranshu321&" alt="pranshu321" /></p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Pranshu321&bg_color=000000&color=9e4c98&line=9e4c98&point=ff8585&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pranshu321&bg_color=000000&color=9e4c98&line=9e4c98&point=ff8585&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
