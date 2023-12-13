@@ -18,9 +18,9 @@
 
 - 👨‍💻 All of my projects are available at [Here](https://pranshuportfolio.netlify.app/)
 
-- Currently working as software engineer intern at <img src="https://img.shields.io/badge/Digilocker-5733EA?style=for-the-badge&logoColor=white" align="center" alt="fdf" />
+<!-- - Currently working as software engineer intern at <img src="https://img.shields.io/badge/Digilocker-5733EA?style=for-the-badge&logoColor=white" align="center" alt="fdf" /> -->
 
-- 💬 Ask me about **Web & Cpp**
+- 💬 Ask me about **Web Dev,App Dev & DSA**
 
 - 📫 How to reach me **pranshujain0111@gmail.com**
 
