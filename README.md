@@ -2,7 +2,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" /> , I'm Pranshu Jain</h1>
-<h3 align="center">Fix the Cause ,  Not the Symptom</h3>
+<h2 align="center">Fix the Cause ,  Not the Symptom</h2>
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=pranshu321&label=Profile%20views&color=0aff33&style=plastic" alt="pranshu321" /> </p> -->
 
@@ -14,7 +14,7 @@
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="quote" /> </p>
          
 
-- 🌱 I’m currently exploring the world of **Web3**
+- 🌱 I’m currently exploring the world of **AI/ML**
 
 - 👨‍💻 All of my projects are available at [Here](https://pranshuportfolio.netlify.app/)
 
