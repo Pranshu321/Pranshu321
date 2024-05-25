@@ -13,7 +13,7 @@
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pranshu321&column=4&margin-w=20&margin-h=15" alt="Pranshu321" /></a> </p> -->
 
-<p align="center"> <img src="https://unwrapped.dev/shared/Pranshu321/your_contributions/TjRQZTdX" alt="pranshu321" width="200" /> <img src="https://unwrapped.dev/shared/Pranshu321/contribution_streak/TG1xeVEy" alt="pranshu321" width="200" />  <img src="https://unwrapped.dev/shared/Pranshu321/pr_reviewed_vs_authored/QS52Wmsy" alt="pranshu321" width="200" /> <img src="https://unwrapped.dev/shared/Pranshu321/day_night_cycle/NG0vaVh5" alt="pranshu321" width="200" /> </p>
+<p align="center"><img src="https://unwrapped.dev/shared/Pranshu321/day_night_cycle/NG0vaVh5" alt="pranshu321" width="200" /> </p>
          
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="quote" /> </p>
          
