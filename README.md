@@ -13,7 +13,7 @@
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pranshu321&column=4&margin-w=20&margin-h=15" alt="Pranshu321" /></a> </p> -->
 
-<p align="center"><img src="https://unwrapped.dev/shared/Pranshu321/day_night_cycle/NG0vaVh5" alt="pranshu321" width="200" /> </p>
+<!-- <p align="center"><img src="https://unwrapped.dev/shared/Pranshu321/day_night_cycle/NG0vaVh5" alt="pranshu321" width="200" /> </p> -->
          
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="quote" /> </p>
          
@@ -44,7 +44,7 @@
 <a href="https://twitter.com/pranshujain0111" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/pranshujain0111?logo=twitter&style=for-the-badge" alt="pranshujain0111" /></a>
 </p>
 
-![GitHub metrics](https://metrics.lecoq.io/Pranshu321)  
+![Metrics](https://metrics.lecoq.io/pranshu321?template=classic&base.hireable=true&isocalendar=1&languages=1&lines=1&notable=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&config.timezone=Asia%2FCalcutta)
 
 <h3 align="left">💻 Languages and Tools :</h3>
 
