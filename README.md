@@ -1,12 +1,8 @@
 <h1 align="center">Hey 👋, I'm Pranshu Jain</h1>
 
-<h3 align="center">
-ML Engineer • AI Systems • LLMs • Agentic AI
-</h3>
+<p align="center"> <b>ML Engineer • Researcher • Professional Debugger of Things That “Should Work”</b> </p>
 
-<p align="center">
-  Building things with ML, breaking them, figuring out why, and then making them better.
-</p>
+<p align="center"> <i>I teach machines to learn. They teach me patience.</i> 😄 </p>
 
 <p align="center">
   <a href="https://pranshuportfolio.netlify.app/">Portfolio</a> •
@@ -27,6 +23,16 @@ ML Engineer • AI Systems • LLMs • Agentic AI
 > **Fix the Cause, Not the Symptom.**
 
 ---
+
+## 🔬 Research
+
+If you're here for the research, you can skip the small talk.
+
+- 📄 QGRL — Question-Guided Relation Linking for Multi-Hop KGQA
+
+- 📄 Geometric Patches and Mechanism Fractures: Stability of Minority Augmentation Under Distributional Shift
+
+My research interests span NLP, Knowledge Graphs, Causal ML, AI Safety, Multimodal Learning, and reliable ML systems.
 
 ### 🧰 Tech Stack
 
